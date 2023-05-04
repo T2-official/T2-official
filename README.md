@@ -4,7 +4,7 @@
 
 I am interested in programming, especially in frontend development. 
 
-I am enthusiastic about join open-source community and devote myself. I believe I can gain experience and accomplish my value.
+I am enthusiastic about joining open-source community and devoting myself. I believe I can gain experience and accomplish my value.
 
 thus, any working oppotunity or support is welcomed. 
 
