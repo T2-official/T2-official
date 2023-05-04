@@ -52,7 +52,7 @@ We need your imperial project! Together we can go for a new stage!
 <img width='90' height='40' title='linux' style='margin-left:15px;' src='skill/linux.png' />
 <img width='70' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
 </div>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=T2-official&show_icons=true&theme=gruvbox&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=T2-official&show_icons=true&theme=gruvbox&rank_icon=github)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2-official&langs_count=8&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
