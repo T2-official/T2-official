@@ -52,7 +52,6 @@ We need your imperial project! Together we can go for a new stage!
 <img width='90' height='40' title='linux' style='margin-left:15px;' src='skill/linux.png' />
 <img width='70' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T2-official&show_icons=true&theme=gruvbox&bg_color=45,orange,blue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2-official&langs_count=8&theme=gruvbox&layout=compact&bg_color=45,orange,blue)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=T2-official&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=135,orange,blue&hide_border=true" alt="T2's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T2-official&layout=compact&theme=gruvbox&bg_color=135,orange,blue&hide_border=true" /></a> |
+| ------------- | ------------- |https://github.com/anuraghazra/github-readme-stats)
 
