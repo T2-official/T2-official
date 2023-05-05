@@ -57,5 +57,5 @@ We need your imperial project! Together we can go for a new stage!
 气死了
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=T2-official&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=135,orange,blue&hide_border=true" alt="T2's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T2-official&layout=compact&theme=gruvbox&bg_color=135,orange,blue&hide_border=true" /></a> |
-| ------------- | ------------- |https://github.com/anuraghazra/github-readme-stats)
+
 
