@@ -8,7 +8,7 @@ I am enthusiastic about joining open-source community and devoting myself. I bel
 
 thus, any working oppotunity or support is welcomed. 
 
-We need your imperial project! Together we can go for a new stage!
+We need your imperative project! Together we can go for a new stage!
 
 # 💡skill
 
